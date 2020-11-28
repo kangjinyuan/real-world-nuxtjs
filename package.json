@@ -1,0 +1,34 @@
+{
+  "name": "real-world-nuxtjs",
+  "version": "1.0.0",
+  "description": "real-world-nuxtjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangjinyuan/real-world-nuxtjs.git"
+  },
+  "keywords": [
+    "real-world",
+    "nuxt"
+  ],
+  "author": "康小源",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangjinyuan/real-world-nuxtjs/issues"
+  },
+  "homepage": "https://github.com/kangjinyuan/real-world-nuxtjs#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cookieparser": "^0.1.0",
+    "dayjs": "^1.9.6",
+    "js-cookie": "^2.2.1",
+    "markdown-it": "^12.0.2",
+    "nuxt": "^2.14.7"
+  }
+}
