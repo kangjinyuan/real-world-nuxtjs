@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
+    "start": "nuxt start"
   },
   "repository": {
     "type": "git",
@@ -22,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/kangjinyuan/real-world-nuxtjs/issues"
   },
-  "homepage": "https://github.com/kangjinyuan/real-world-nuxtjs#readme",
   "dependencies": {
     "axios": "^0.21.0",
     "cookieparser": "^0.1.0",
